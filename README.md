@@ -1,0 +1,2 @@
+# mjsl
+Minimun JavaScript Library
